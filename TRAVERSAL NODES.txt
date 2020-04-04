@@ -1,3 +1,13 @@
+FIRST QUESTION IN ASSIGNMENT:
+
+Find out the Traversal Nodes for Figure 2: 
+1. Depth First Traversals: 
+Inorder: Pre order : 
+Post order: 
+2. Breadth First or Level Order Traversal
+
+
+ANSWERS:
 IN-ORDER TRAVERSAL:
 Z-W-S-B-Y-R-A-A-E-U-G-P-J
 PRE-ORDER TRAVERSAL:
